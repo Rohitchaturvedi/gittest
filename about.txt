@@ -1,2 +1,1 @@
 <h1>About Rohit CHaturvedi</h1>
-echo "hi";
